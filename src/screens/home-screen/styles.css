@@ -1,0 +1,26 @@
+.my-collection{
+    width: 15%;
+    margin: auto 90%;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    cursor: pointer;
+    margin-bottom: 5%;
+}
+.search-container{
+    position: relative;
+    width: 40%;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #f4f5ee;
+}
+.search-input{
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    outline: none;
+    color: #444444;
+}

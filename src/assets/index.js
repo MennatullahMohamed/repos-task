@@ -1,0 +1,1 @@
+export const box=require("./box-copy@3x.png")

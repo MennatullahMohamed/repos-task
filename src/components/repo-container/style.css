@@ -1,0 +1,27 @@
+.repo-container{
+    text-align: left;
+    width: 100%;
+    margin:auto;
+    padding: 20px;
+}
+.repo-container:hover{
+    background: #e7e8e1;
+}
+.link-icon{
+    margin-left: 10px;
+    color: #a3a39f;
+    visibility: hidden;
+}
+.link-icon:hover{
+    visibility: visible;
+
+}
+.save-button{
+    background: #d0d1cb;
+    border: none;
+    padding: 12px;
+    font-size: 14px;
+    outline: none;
+    font-weight: bold;
+    cursor: pointer;
+}
